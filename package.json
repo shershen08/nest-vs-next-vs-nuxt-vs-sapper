@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "install-all": "lerna bootstrap",
-    "run-all": "lerna run"
+    "run-all": "lerna run --parallel dev"
   },
   "repository": {
     "type": "git",
