@@ -1,0 +1,5 @@
+packages/nuxt/node_modules
+packages/nextjs/node_modules
+packages/sapper/node_modules
+packages/nest/node_modules
+node_modules

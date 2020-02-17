@@ -1,0 +1,24 @@
+{
+  "name": "nest-vs-next-vs-nuxt-vs-sapper",
+  "version": "1.0.0",
+  "description": "sapper, nuxt, vuejs, react, nest, typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-all": "lerna bootstrap",
+    "run-all": "lerna run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shershen08/nest-vs-next-vs-nuxt-vs-sapper.git"
+  },
+  "author": "Mikhail Kuznetcov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shershen08/nest-vs-next-vs-nuxt-vs-sapper/issues"
+  },
+  "homepage": "https://github.com/shershen08/nest-vs-next-vs-nuxt-vs-sapper#readme",
+  "dependencies": {
+    "lerna": "^3.20.2"
+  }
+}
